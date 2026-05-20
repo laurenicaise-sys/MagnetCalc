@@ -9,7 +9,7 @@
 
 | Fichier | Description |
 |---|---|
-| `MagnetCalc_v3.html` | L'outil de calcul — à ouvrir dans un navigateur |
+| `index.html` | L'outil de calcul — à ouvrir dans un navigateur |
 | `guide_magnetcalc_v3.docx` | Le guide d'utilisation complet |
 
 ---
